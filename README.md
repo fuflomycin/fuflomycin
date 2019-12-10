@@ -1,2 +1,3 @@
 # fuflomycin
-data files
+
+https://github.com/DanWebb/jdown

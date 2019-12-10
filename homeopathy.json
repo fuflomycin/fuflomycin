@@ -1,0 +1,10 @@
+{
+  "name": "homeopathy",
+  "cwd": "./",
+  "src": "src/homeopathy/",
+  "filePattern": "**/*.md",
+  "ignore": "*(icon|input)*",
+  "dist": "dist/homeopathy.json",
+  "server": true,
+  "port": 3001
+}

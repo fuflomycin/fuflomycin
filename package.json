@@ -1,0 +1,12 @@
+{
+  "name": "fuflomycin",
+  "version": "1.0.0",
+  "description": "data files",
+  "main": "index.js",
+  "repository": "https://github.com/bndby/fuflomycin.git",
+  "author": "Bandarenka Yura <by@klen.by>",
+  "license": "MIT",
+  "dependencies": {
+    "jdown": "^1.0.3"
+  }
+}
