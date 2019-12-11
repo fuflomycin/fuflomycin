@@ -8,5 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "jdown": "^1.0.3"
+  },
+  "scripts": {
+    "homeopathy": "node ./src/homeopathy.js"
   }
 }
