@@ -1,6 +1,7 @@
 ---
 section: Гомеопатия
 title: АбнобаВИСКУМ Фраксини
+photo: abnoba-viscum-fraksini.jpg
 other: []
 producer: Abnoba GmbH, Германия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/10111_13_17_19
