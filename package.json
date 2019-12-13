@@ -7,6 +7,7 @@
   "author": "Bandarenka Yura <by@klen.by>",
   "license": "MIT",
   "dependencies": {
+    "copy": "^0.3.2",
     "jdown": "^1.0.3"
   },
   "scripts": {
