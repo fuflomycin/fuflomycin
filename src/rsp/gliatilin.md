@@ -8,6 +8,6 @@ source: https://encyclopatia.ru/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%B5%
 label: orange
 ---
 
-потенциально эффективный (по данным [одного РКИ](http://www.ncbi.nlm.nih.gov/pubmed/12637119)) препарат для лечения болезни Альцгеймера, надёжных данных по эффективности не имеющий [59](https://www.ncbi.nlm.nih.gov/pubmed/17331541), [60](https://www.ncbi.nlm.nih.gov/pubmed/14519085), и на данный момент считающийся просто БАДом [61](http://www.rxlist.com/alpha-gpc/supplements.htm);
+Потенциально эффективный (по данным [одного РКИ](http://www.ncbi.nlm.nih.gov/pubmed/12637119)) препарат для лечения болезни Альцгеймера, надёжных данных по эффективности не имеющий [59](https://www.ncbi.nlm.nih.gov/pubmed/17331541), [60](https://www.ncbi.nlm.nih.gov/pubmed/14519085), и на данный момент считающийся просто БАДом [61](http://www.rxlist.com/alpha-gpc/supplements.htm);
 
 Cochrane Reviews 0; FDA 0; ВОЗ 0; ФК (-).
