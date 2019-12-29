@@ -8,6 +8,6 @@ source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/3005_9
 label: red
 ---
 
-**Не эффективно.**
+У гомеопатии не может быть доказательств эффективности.
 
 Прописывают при хроническом тонзиллите.

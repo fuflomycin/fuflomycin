@@ -8,6 +8,6 @@ source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/5654_0
 label: red
 ---
 
-**Не эффективно.**
+У гомеопатии не может быть доказательств эффективности.
 
 Прописывают при импотенции.

@@ -7,6 +7,6 @@ source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/17_12_
 label: red
 ---
 
-**Не эффективно.**
+У гомеопатии не может быть доказательств эффективности.
 
 Прописывают при простуде.

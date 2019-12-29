@@ -8,7 +8,7 @@ source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/10111_
 label: red
 ---
 
-**Не эффективно.**
+У гомеопатии не может быть доказательств эффективности.
 
 Прописывают при онкологических заболеваниях.
 

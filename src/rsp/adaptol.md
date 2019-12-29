@@ -1,11 +1,14 @@
 ---
 section: РСП / Фуфломицин
 title: Адаптол
-photo:
+photo: adaptol.jpg
 other:
   [
     Мебикар,
+    Mebicar,
+    Mebicarum,
     Мебикс,
+    Mebix,
     Adaptol,
     Тетраметилтетраазабициклооктандион,
     Tetramethyltetraazabicyclooctandione,
@@ -15,7 +18,7 @@ source: https://encyclopatia.ru/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%B5%
 label: orange
 ---
 
-(недо)транквилизатор, назначают при тревожности, плохом сне, бросании курить.
+Недотранквилизатор, назначают при тревожности, плохом сне, бросании курить.
 
 Пустота по всем фронтам: Cochrane Reviews 0; Pubmed 0; FDA 0; RXlist 0; ВОЗ 0; ФК (-); никому такое действующее вещество неизвестно.
 
