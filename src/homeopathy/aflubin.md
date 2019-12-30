@@ -1,10 +1,10 @@
 ---
 section: Гомеопатия
-title: АФЛУБИН
+title: Афлубин
 photo:
-other: []
+other: [Aflubin]
 producer: Richard Bittner AG, Австрия
-source:
+source: https://www.rlsnet.ru/tn_index_id_3160.htm
 label: red
 ---
 
