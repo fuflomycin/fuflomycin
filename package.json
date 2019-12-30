@@ -8,11 +8,17 @@
   "license": "MIT",
   "dependencies": {
     "copy": "^0.3.2",
+    "husky": "^3.1.0",
     "jdown": "^1.0.3"
   },
   "scripts": {
     "all": "npm run homeopathy && npm run rsp",
     "homeopathy": "node ./src/homeopathy.js",
     "rsp": "node ./src/rsp.js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run all && git add"
+    }
   }
 }
