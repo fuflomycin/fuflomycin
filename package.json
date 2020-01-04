@@ -12,9 +12,10 @@
     "jdown": "^1.0.3"
   },
   "scripts": {
-    "all": "npm run homeopathy && npm run rsp",
+    "all": "npm run homeopathy && npm run rsp && npm run fk",
     "homeopathy": "node ./src/homeopathy.js",
-    "rsp": "node ./src/rsp.js"
+    "rsp": "node ./src/rsp.js",
+    "fk": "node ./src/fk.js"
   },
   "husky": {
     "hooks": {
