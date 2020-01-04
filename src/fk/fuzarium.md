@@ -1,6 +1,6 @@
 ---
 section: Негативный перечень ФК
-title: Алоэ экстракт
+title: Гриба фузариум биомасса
 photo:
 other: []
 producer:
