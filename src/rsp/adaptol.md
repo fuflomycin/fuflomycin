@@ -5,11 +5,11 @@ photo: adaptol.jpg
 other:
   [
     Мебикар,
+    Мебикс,
+    Adaptol,
     Mebicar,
     Mebicarum,
-    Мебикс,
     Mebix,
-    Adaptol,
     Тетраметилтетраазабициклооктандион,
     Tetramethyltetraazabicyclooctandione,
   ]
