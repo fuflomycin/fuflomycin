@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Геморракс
-photo: gemmoraks.jpg
+photo:
 other: [Hemorrax]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_33630.htm
