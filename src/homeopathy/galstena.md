@@ -1,10 +1,10 @@
 ---
 section: Гомеопатия
-title: ГАЛСТЕНА
+title: Галстена
 photo:
-other: []
+other: [Galstena]
 producer: Richard Bittner AG, Австрия
-source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/5041_01_04_06_11_16
+source: https://www.rlsnet.ru/tn_index_id_6757.htm
 label: red
 ---
 
