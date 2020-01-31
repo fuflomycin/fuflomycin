@@ -1,8 +1,8 @@
 ---
 section: Гомеопатия
-title: ИНФЛЮЦИД
+title: Инфлюцид
 photo:
-other: []
+other: [Influcid]
 producer: Deutsche Homoopathie-Union DHU-Arzneimittel GmbH & Co. KG., Германия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/3167_98_03_08_13_18_18
 label: red

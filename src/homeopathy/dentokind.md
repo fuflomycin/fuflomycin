@@ -1,8 +1,8 @@
 ---
 section: Гомеопатия
-title: ДЕНТОКИНД
+title: Дентокинд
 photo:
-other: []
+other: [Dentokind]
 producer: Deutsche Homoopathie-Union DHU-Arzneimittel GmbH & Co. KG., Германия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/9908_12_17
 label: red

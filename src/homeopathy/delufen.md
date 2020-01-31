@@ -1,8 +1,8 @@
 ---
 section: Гомеопатия
-title: ДЕЛУФЕН
+title: Делуфен
 photo:
-other: []
+other: [Delufen]
 producer: Richard Bittner AG, Австрия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/9622_11_16
 label: red
