@@ -1,6 +1,6 @@
 ---
 section: Гомеопатия
-title: СТОДАЛЬ
+title: Стодаль
 photo:
 other: []
 producer: Boiron, Франция
