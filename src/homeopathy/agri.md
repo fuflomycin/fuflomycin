@@ -1,8 +1,8 @@
 ---
 section: Гомеопатия
-title: АГРИ
+title: Агри
 photo:
-other: []
+other: [Agri]
 producer: ООО «НПФ «МАТЕРИА МЕДИКА ХОЛДИНГ»
 source: https://encyclopatia.ru/wiki/%D0%90%D0%B3%D1%80%D0%B8
 label: red
