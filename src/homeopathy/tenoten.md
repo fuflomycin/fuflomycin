@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тенотен
-photo:
+photo: tenoten.png
 other: [Tenoten]
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://encyclopatia.ru/wiki/%D0%A2%D0%B5%D0%BD%D0%BE%D1%82%D0%B5%D0%BD

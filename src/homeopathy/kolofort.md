@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: КОЛОФОРТ
-photo:
+photo: kolofort.png
 other: []
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/10492_16

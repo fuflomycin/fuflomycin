@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Артрофоон
-photo:
+photo: artrofoon.png
 other: [Artrofoon]
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://encyclopatia.ru/wiki/%D0%90%D1%80%D1%82%D1%80%D0%BE%D1%84%D0%BE%D0%BE%D0%BD
@@ -20,7 +20,7 @@ label: red
 
 То есть антитела против собственных белков организма? Да, звучало бы круто и зловеще, но не в этом препарате.
 
-Лечение, которое подавляет факторы некроза опухоли, [действительно существует](https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Treatments/TNF-Inhibitors#:~:text=TNF%20inhibitors%20are%20drugs%20that,%2C%20ankylosing%20spondylitis%2C%20and%20psoriasis.). Оно необходимо, когда белков ФНО в организме становится слишком много, что усиливает воспаление и симптомы. Такое может быть при ревматоидном артрите, только вот во время реального лечения препарат будут [вводить внутривенно](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3956207/#:~:text=Tumor%20necrosis%20factor%20(TNF)%2D,for%20the%20treatment%20of%20RA.), а не класть чудо-таблеточки под язык.
+Лечение, которое подавляет факторы некроза опухоли, [действительно существует](https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Treatments/TNF-Inhibitors#:~:text=TNF%20inhibitors%20are%20drugs%20that,%2C%20ankylosing%20spondylitis%2C%20and%20psoriasis.). Оно необходимо, когда белков ФНО в организме становится слишком много, что усиливает воспаление и симптомы. Такое может быть при ревматоидном артрите, только вот во время реального лечения препарат будут [вводить внутривенно](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3956207/#:~:text=Tumor%20necrosis%20factor%20(TNF)%2D,for%20the%20treatment%20of%20RA.>), а не класть чудо-таблеточки под язык.
 
 Эти же суперпилюли содержат не более 10⁻¹⁵ нг/г активной формы действующего вещества. Говоря по-простому: его там нет. То есть его развели до такой степени, что в таблетке вы не найдете ни одного антитела.
 

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Климаксан
-photo:
+photo: klimaksan.png
 other: [Klimaksan]
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/6542_03_08_13_18

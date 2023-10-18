@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: АФАЛАЗА
-photo:
+photo: afalaza.png
 other: []
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source:

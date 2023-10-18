@@ -1,9 +1,9 @@
 ---
 section: Гомеопатия
 title: Фарингомед
-photo: 
+photo: pharyngomed.png
 other: [Pharyngomed]
-producer: 
+producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://www.rlsnet.ru/tn_index_id_12734.htm
 label: red
 ---

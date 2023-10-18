@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Эргоферон
-photo:
+photo: ergoferon.png
 other: []
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
 source: https://encyclopatia.ru/wiki/%D0%AD%D1%80%D0%B3%D0%BE%D1%84%D0%B5%D1%80%D0%BE%D0%BD
