@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Биопарокс
+mnn: fusafungine
 photo:
 other: [Bioparox, Fusafungin]
 producer:

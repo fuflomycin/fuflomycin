@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Арбидол
+mnn: umifenovir
 photo: arbidol.jpg
 other:
   [

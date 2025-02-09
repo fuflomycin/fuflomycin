@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Амиксин
+mnn: tilorone
 photo:
 other: [Лавомакс, Тилорон, Тилаксин, Amixin, Tilorone]
 producer:

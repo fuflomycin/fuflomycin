@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Амизон
+mnn: enisamium iodide
 photo:
 other: [Энисамия йодид, Enisamium iodide, Нобазит]
 producer:

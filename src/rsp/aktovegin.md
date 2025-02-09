@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Актовегин
+mnn: deproteinized hemoderivative of calf blood
 photo:
 other: [Солкосерил, Actovegin, Solcoseryl]
 producer:

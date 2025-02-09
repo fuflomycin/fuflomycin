@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Алпизарин
+mnn: tetrahydroxyglucopyranosilxanten
 photo:
 other:
   [

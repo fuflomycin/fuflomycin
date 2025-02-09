@@ -1,6 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Акридон
+mnn: acridone
 photo:
 other: [акридонуксусная кислота, acridone, Циклоферон]
 producer:
