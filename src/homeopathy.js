@@ -8,7 +8,10 @@ const copy = require("copy");
 jdown("src/homeopathy")
   .then((content) => {
     let result = [];
-    for (let i in content) result.push({ id: i, ...content[i] });
+    for (let i in content) {
+      if (!content[i].title) continue;
+      result.push({ id: i, ...content[i] });
+    }
     fs.writeFile("docs/homeopathy.json", JSON.stringify(result), (er) => {
       if (er) {
         console.log("Write file error:", er);
