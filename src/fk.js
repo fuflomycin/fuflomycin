@@ -22,7 +22,7 @@ jdown("src/fk")
  * Copy static assets
  */
 copy(
-  ["./src/homeopathy/*.jpg", "./src/homeopathy/*.png"],
+  ["./src/fk/*.jpg", "./src/fk/*.png", "./src/fk/*.webp"],
   "./docs/img",
   (err, files) => {
     console.log("Log", err, files.length);
