@@ -1,13 +1,17 @@
 ---
 section: РСП / Фуфломицин
 title: Адеметионин
-photo:
+photo: ademetionin.png
+mnn: ademetionine
+gallery: [ademetionin-geptral.png, ademetionin-geptor.png, ademetionin-gepcifol.png, ademetionin-geparetta.png, ademetionin-sameliks.png, ademetionin-gepavetarium.png]
 other:
   [
     Гептрал,
     Гептор,
+    Гепцифол,
     Гепаретта,
     Самеликс,
+    Гепаветариум,
     Гептразан,
     Ademetionine,
     Heptral,

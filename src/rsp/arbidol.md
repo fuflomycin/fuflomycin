@@ -15,7 +15,7 @@ other:
     Umifenovir,
   ]
 producer:
-source: https://encyclopatia.ru/wiki/%D0%90%D1%80%D0%B1%D0%B8%D0%B4%D0%BE%D0%BB
+source: https://encyclopatia.ru/wiki/Арбидол
 label: orange
 ---
 

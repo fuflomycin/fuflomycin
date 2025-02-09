@@ -2,8 +2,8 @@
 section: РСП / Фуфломицин
 title: Аллапинин
 mnn: lappaconitine hydrobromide
-photo: allapenin.png
-gallery: [allapenin2.png]
+photo: allapinin.png
+gallery: [allapinin2.png]
 other: [allapinin, лаппаконитина гидробромид, lappaconitine hydrobromide]
 producer: ФАРМЦЕНТР ВИЛАР, АО
 source: https://encyclopatia.ru/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2

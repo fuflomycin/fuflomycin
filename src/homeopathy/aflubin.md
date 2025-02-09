@@ -4,7 +4,7 @@ title: Афлубин
 photo:
 other: [Aflubin]
 producer: Richard Bittner AG, Австрия
-source: https://encyclopatia.ru/wiki/%D0%90%D1%84%D0%BB%D1%83%D0%B1%D0%B8%D0%BD
+source: https://encyclopatia.ru/wiki/Афлубин
 label: red
 ---
 

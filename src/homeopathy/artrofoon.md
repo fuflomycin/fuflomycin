@@ -4,7 +4,7 @@ title: Артрофоон
 photo: artrofoon.png
 other: [Artrofoon]
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
-source: https://encyclopatia.ru/wiki/%D0%90%D1%80%D1%82%D1%80%D0%BE%D1%84%D0%BE%D0%BE%D0%BD
+source: https://encyclopatia.ru/wiki/Артрофоон
 label: red
 ---
 

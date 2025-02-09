@@ -4,7 +4,7 @@ title: Агри
 photo: agri.png
 other: [Agri]
 producer: ООО «НПФ «МАТЕРИА МЕДИКА ХОЛДИНГ»
-source: https://encyclopatia.ru/wiki/%D0%90%D0%B3%D1%80%D0%B8
+source: https://encyclopatia.ru/wiki/Агри
 label: red
 ---
 

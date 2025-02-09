@@ -4,7 +4,7 @@ title: Анаферон
 photo: anaferon.png
 other: [Анаферон детский, Anaferon]
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
-source: https://encyclopatia.ru/wiki/%D0%90%D0%BD%D0%B0%D1%84%D0%B5%D1%80%D0%BE%D0%BD
+source: https://encyclopatia.ru/wiki/Анаферон
 label: red
 ---
 
