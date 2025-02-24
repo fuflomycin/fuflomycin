@@ -4,7 +4,7 @@ title: Мастодинон
 photo: 
 other: [Mastodynon]
 producer: 
-source: https://www.rlsnet.ru/tn_index_id_2013.htm
+source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/2377_97_02_07_12_17
 label: red
 ---
 

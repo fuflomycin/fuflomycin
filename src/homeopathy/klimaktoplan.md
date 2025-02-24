@@ -4,8 +4,10 @@ title: Климактоплан
 photo:
 other: [Klimaktoplan]
 producer: DHU
-source: https://www.rlsnet.ru/tn_index_id_1756.htm
+source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/8523_08_15_18
 label: red
 ---
 
 У гомеопатии не может быть доказательств эффективности.
+
+Прописывают при климаксе.

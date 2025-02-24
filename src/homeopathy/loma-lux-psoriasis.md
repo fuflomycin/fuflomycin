@@ -4,7 +4,7 @@ title: Лома Люкс Псориасис
 photo: 
 other: [Loma Lux Psoriasis, Лома Псориаз, Loma Psoriasis]
 producer: 
-source: https://www.rlsnet.ru/tn_index_id_29570.htm
+source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/4000_99_04_09_15_17
 label: red
 ---
 
