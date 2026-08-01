@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Окулохель
-photo: oculoheel.jpg
+photo:
 other: [Oculoheel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_29580.htm

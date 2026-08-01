@@ -4,7 +4,7 @@ title: Ренгалин
 photo: rengalin.png
 other: []
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
-source:
+source: https://www.rlsnet.ru/drugs/rengalin-88002
 label: red
 ---
 

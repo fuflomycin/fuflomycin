@@ -12,7 +12,7 @@ other:
     Гепарсульфур,
   ]
 producer:
-source:
+source: https://www.rlsnet.ru/drugs/gepar-sulfur-21594
 label: red
 ---
 

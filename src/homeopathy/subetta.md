@@ -4,7 +4,7 @@ title: Субетта
 photo: subetta.png
 other: []
 producer: МАТЕРИА МЕДИКА ХОЛДИНГ НПФ, ООО (Россия)
-source:
+source: https://www.rlsnet.ru/drugs/subetta-40158
 label: red
 ---
 

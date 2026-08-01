@@ -4,7 +4,7 @@ title: Проспекта
 photo: prospekta.png
 other: []
 producer: МАТЕРИА МЕДИКА ХОЛДИНГ НПФ, ООО (Россия)
-source:
+source: https://www.rlsnet.ru/drugs/prospekta-85769
 label: red
 ---
 

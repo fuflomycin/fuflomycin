@@ -4,7 +4,7 @@ title: АФАЛАЗА
 photo: afalaza.png
 other: []
 producer: НПФ Материа Медика Холдинг ООО, Российская Федерация
-source:
+source: https://www.rlsnet.ru/drugs/afalaza-40114
 label: red
 ---
 

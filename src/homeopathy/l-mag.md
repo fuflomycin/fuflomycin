@@ -3,8 +3,8 @@ section: Гомеопатия
 title: Л-Маг
 photo: 
 other: [L-Mag]
-producer: https://www.rlsnet.ru/tn_index_id_40554.htm
-source: 
+producer:
+source: https://www.rlsnet.ru/drugs/l-mag-35034
 label: red
 ---
 

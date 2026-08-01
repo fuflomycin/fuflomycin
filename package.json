@@ -2,24 +2,24 @@
   "name": "fuflomycin",
   "version": "1.0.0",
   "description": "data files",
-  "main": "index.js",
   "repository": "https://github.com/bndby/fuflomycin.git",
   "author": "Bandarenka Yura <by@klen.by>",
   "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
-    "copy": "^0.3.2",
-    "husky": "^9.1.7",
     "jdown": "^1.0.5"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
   },
   "scripts": {
     "all": "npm run homeopathy && npm run rsp && npm run fk",
     "homeopathy": "node ./src/homeopathy.js",
     "rsp": "node ./src/rsp.js",
-    "fk": "node ./src/fk.js"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run all && git add ."
-    }
+    "fk": "node ./src/fk.js",
+    "validate": "node ./src/validate.js",
+    "prepare": "husky"
   }
 }

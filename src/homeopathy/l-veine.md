@@ -3,8 +3,8 @@ section: Гомеопатия
 title: Л-Вен
 photo: 
 other: [L-Veine]
-producer: https://www.rlsnet.ru/tn_index_id_40553.htm
-source: 
+producer:
+source: https://www.rlsnet.ru/drugs/l-ven-35033
 label: red
 ---
 

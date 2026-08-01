@@ -4,7 +4,7 @@ title: Диваза
 photo: divaza.png
 other: []
 producer: МАТЕРИА МЕДИКА ХОЛДИНГ НПФ, ООО (Россия)
-source:
+source: https://www.rlsnet.ru/drugs/divaza-40128
 label: red
 ---
 
