@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Пирацетам
-photo:
+photo: rsp-pyracetam.png
 other:
   [
     Ноотропил,

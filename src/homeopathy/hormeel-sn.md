@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гормель СН
-photo:
+photo: homeopathy-hormeel-sn.png
 other: [Hormeel SN]
 producer: Biologische Heilmittel Heel GmbH
 source: https://www.rlsnet.ru/tn_index_id_7789.htm

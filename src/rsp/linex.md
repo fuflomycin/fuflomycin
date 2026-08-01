@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Линекс
-photo:
+photo: rsp-linex.png
 other:
   [
     Linex,

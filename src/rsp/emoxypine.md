@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Эмоксипин
-photo:
+photo: rsp-emoxypine.png
 other:
   [Кардиоксипин, Эмоксибел, метилэтилпиридинол, Emoxypine, methylethylpyridinol]
 producer:

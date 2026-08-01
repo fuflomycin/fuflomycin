@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Климакт-Хель
-photo:
+photo: homeopathy-klimakt-heel.png
 other: [Klimakt-Heel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7206.htm

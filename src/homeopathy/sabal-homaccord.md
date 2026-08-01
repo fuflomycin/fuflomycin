@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Сабаль-Гомаккорд
-photo: 
+photo: homeopathy-sabal-homaccord.png
 other: [Sabal-Homaccord]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_9351.htm

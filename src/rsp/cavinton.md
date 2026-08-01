@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Кавинтон
-photo:
+photo: rsp-cavinton.png
 other:
   [
     Винпоцетин,

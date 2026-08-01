@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Апис-плюс
-photo:
+photo: homeopathy-apis-plus.png
 other: [Apis-plus]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_16178.htm

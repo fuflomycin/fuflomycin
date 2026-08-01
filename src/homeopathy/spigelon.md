@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Спигелон
-photo: 
+photo: homeopathy-spigelon.jpg
 other: [Spigelon]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7217.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Л-Маг
-photo: 
+photo: homeopathy-l-mag.png
 other: [L-Mag]
 producer:
 source: https://www.rlsnet.ru/drugs/l-mag-35034

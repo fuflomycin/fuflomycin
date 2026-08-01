@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гастрикумель
-photo:
+photo: homeopathy-gastricumeel.png
 other: [Gastricumeel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7204.htm

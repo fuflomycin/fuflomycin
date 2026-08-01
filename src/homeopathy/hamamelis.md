@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гамамелис
-photo:
+photo: homeopathy-hamamelis.png
 other: [Hamamelis]
 producer: Лаборатория Буарон
 source: https://www.rlsnet.ru/tn_index_id_16048.htm

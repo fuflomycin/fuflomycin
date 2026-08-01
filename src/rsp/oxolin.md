@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Оксолин
-photo:
+photo: rsp-oxolin.jpg
 other:
   [
     Оксонафтилин,

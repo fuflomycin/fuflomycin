@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ацидум С
-photo:
+photo: homeopathy-acidum-s.png
 other: [Acidum S]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_6825.htm

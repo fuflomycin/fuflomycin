@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гепар
-photo:
+photo: homeopathy-hepar.png
 other:
   [
     Hepar,

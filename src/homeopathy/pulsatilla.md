@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Пульсатилла
-photo: 
+photo: homeopathy-pulsatilla.png
 other: [Pulsatilla]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_29408.htm

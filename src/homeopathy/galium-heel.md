@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Галиум-Хель
-photo:
+photo: homeopathy-galium-heel.png
 other: [Galium-Heel]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_4069.htm

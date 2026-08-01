@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Имунофан
-photo:
+photo: rsp-imunofan.png
 other:
   [
     Imunofan,

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Иов-венум
-photo:
+photo: homeopathy-iov-venum.png
 other: [Iov-Venum]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_10792.htm

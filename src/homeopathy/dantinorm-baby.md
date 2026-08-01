@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Дантинорм Бэби
-photo:
+photo: homeopathy-dantinorm-baby.png
 other: [Dantinorm Baby]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_47081.htm

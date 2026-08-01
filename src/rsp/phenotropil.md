@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Фенотропил
-photo:
+photo: rsp-phenotropil.png
 other:
   [
     Фонтурацетам,

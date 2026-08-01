@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Хамомилла
-photo: 
+photo: homeopathy-chamomilla.png
 other: [Chamomilla]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_98461.htm

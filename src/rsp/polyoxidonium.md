@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Полиоксидоний
-photo:
+photo: rsp-polyoxidonium.png
 other: [Polyoxidonium, Азоксимера бромид, Azoximer bromide]
 producer:
 source: https://encyclopatia.ru/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%BE%D0%BD%D0%B8%D0%B9

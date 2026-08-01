@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Траумель С
-photo: 
+photo: homeopathy-traumeel.png
 other: [Траумель, Traumeel S]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_3199.htm

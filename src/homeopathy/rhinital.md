@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ринитал
-photo: 
+photo: homeopathy-rhinital.png
 other: [Rhinital]
 producer: DHU (Германия)
 source: https://www.rlsnet.ru/tn_index_id_6708.htm

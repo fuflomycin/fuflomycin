@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Рута гравеоленс
-photo: 
+photo: homeopathy-ruta-graveolens.png
 other: [Ruta graveolens, Рута пахучая, Рута-плюс, Ruta-plus]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_98469.htm

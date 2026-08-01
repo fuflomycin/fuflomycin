@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Солидаго композитум С
-photo: 
+photo: homeopathy-solidago-compositum.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

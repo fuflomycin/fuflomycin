@@ -2,7 +2,7 @@
 section: РСП / Фуфломицин
 title: Анальгин
 mnn: metamizole sodium
-photo:
+photo: rsp-analgin.png
 other: [Метамизол, Metamizole, Dipyrone]
 producer:
 source: https://encyclopatia.ru/wiki/Анальгин

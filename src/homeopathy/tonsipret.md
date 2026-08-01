@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тонзипрет
-photo: 
+photo: homeopathy-tonsipret.png
 other: [Tonsipret]
 producer: Bionorica SE, Германия
 source: https://www.rlsnet.ru/tn_index_id_34900.htm

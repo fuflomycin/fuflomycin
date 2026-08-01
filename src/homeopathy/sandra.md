@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Сандра
-photo: 
+photo: homeopathy-sandra.png
 other: [Sandra]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_6216.htm

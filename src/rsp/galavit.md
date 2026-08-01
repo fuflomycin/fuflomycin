@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Галавит
-photo:
+photo: rsp-galavit.png
 other:
   [
     Galavit,

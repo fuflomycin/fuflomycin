@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Калиум бихромикум
-photo:
+photo: homeopathy-kalium-bichromicum.png
 other: [Kalium bichromicum]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_29221.htm

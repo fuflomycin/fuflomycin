@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Стафизагриа
-photo: 
+photo: homeopathy-staphysagria.png
 other: [Staphysagria]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_98472.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Дискус композитум
-photo:
+photo: homeopathy-discus-compositum.png
 other: [Discus compositum]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_7966.htm

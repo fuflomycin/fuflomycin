@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Тиоктовая кислота
-photo:
+photo: rsp-thioctic-acid.png
 other:
   [
     липоат,

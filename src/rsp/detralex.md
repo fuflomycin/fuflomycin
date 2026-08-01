@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Детралекс
-photo:
+photo: rsp-detralex.png
 other:
   [
     Венарус,

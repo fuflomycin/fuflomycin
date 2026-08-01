@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Афлубин
-photo:
+photo: homeopathy-aflubin.png
 other: [Aflubin]
 producer: Richard Bittner AG, Австрия
 source: https://encyclopatia.ru/wiki/Афлубин

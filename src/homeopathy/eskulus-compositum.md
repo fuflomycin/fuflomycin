@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Эскулюс композитум
-photo: 
+photo: homeopathy-eskulus-compositum.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

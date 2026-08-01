@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Барбарис комп.
-photo:
+photo: homeopathy-berberis.png
 other: [Иов-малыш, Berberis comp]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_11949.htm

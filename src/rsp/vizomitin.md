@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Визомитин
-photo:
+photo: rsp-vizomitin.png
 other:
   [
     Vizomitin,

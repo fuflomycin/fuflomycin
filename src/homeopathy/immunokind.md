@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Иммунокинд
-photo:
+photo: homeopathy-immunokind.png
 other: [Immunokind]
 producer: Deutsche Homoopathie-Union DHU-Arzneimittel GmbH & Co. KG., Германия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/9946_12_17

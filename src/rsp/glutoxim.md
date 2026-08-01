@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Глутоксим
-photo:
+photo: rsp-glutoxim.png
 other:
   [
     Glutoxim,

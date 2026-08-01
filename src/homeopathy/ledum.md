@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ледум
-photo: 
+photo: homeopathy-ledum.png
 other: [Ledum, Ледум ДН, Ledum DN, Ледум палюстре, Ledum palustre, Ледум-Эдас, Ledum-Edas]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_15655.htm

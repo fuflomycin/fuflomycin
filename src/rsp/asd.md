@@ -2,7 +2,7 @@
 section: РСП / Фуфломицин
 title: АСД фракция 2 / фракция 3
 mnn:
-photo:
+photo: rsp-asd.png
 gallery:
 other: [АСД-2, АСД-3, антисептик-стимулятор Дорогова]
 producer:

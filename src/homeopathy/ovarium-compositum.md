@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Овариум композитум
-photo:
+photo: homeopathy-ovarium-compositum.png
 other: [Ovarium compositum]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_9863.htm

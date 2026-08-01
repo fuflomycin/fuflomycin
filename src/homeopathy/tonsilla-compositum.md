@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тонзилла композитум
-photo: 
+photo: homeopathy-tonsilla-compositum.png
 other: [Tonsilla compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_9869.htm

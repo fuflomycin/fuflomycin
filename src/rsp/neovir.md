@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Неовир
-photo:
+photo: rsp-neovir.png
 other:
   [
     Neovir,

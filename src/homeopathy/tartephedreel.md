@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тартефедрель
-photo: 
+photo: homeopathy-tartephedreel.png
 other: [Tartephedreel]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_7792.htm

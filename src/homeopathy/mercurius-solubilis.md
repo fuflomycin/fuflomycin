@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Меркуриус солюбилис
-photo: 
+photo: homeopathy-mercurius-solubilis.png
 other: [Mercurius solubilis]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_28902.htm

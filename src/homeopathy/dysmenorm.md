@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Дисменорм
-photo:
+photo: homeopathy-dysmenorm.png
 other: [Dysmenorm]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_9589.htm

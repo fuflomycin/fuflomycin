@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Расторопша
-photo:
+photo: rsp-rastoropsha.png
 other:
   [
     Расторопша пятнистая,

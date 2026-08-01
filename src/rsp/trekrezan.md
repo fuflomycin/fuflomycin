@@ -2,7 +2,7 @@
 section: РСП / Фуфломицин
 title: Трекрезан
 mnn:
-photo:
+photo: rsp-trekrezan.png
 gallery:
 other: []
 producer:

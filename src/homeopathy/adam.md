@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Адам
-photo:
+photo: homeopathy-adam.png
 other: [Adam]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_28216.htm

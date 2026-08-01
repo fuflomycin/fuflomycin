@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Прополис
-photo: 
+photo: homeopathy-propolis.jpg
 other: [Propolis]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_5031.htm

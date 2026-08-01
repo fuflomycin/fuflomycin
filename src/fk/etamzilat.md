@@ -1,7 +1,7 @@
 ---
 section: Негативный перечень ФК
 title: Этамзилат
-photo:
+photo: fk-etamzilat.png
 other: []
 producer:
 source: http://www.rspor.ru/mods/db1/1/Negativ_perechen.pdf

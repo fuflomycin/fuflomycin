@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Потенциал
-photo: 
+photo: homeopathy-potencial.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

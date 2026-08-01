@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Кагоцел
-photo:
+photo: rsp-kagocel.png
 other: [Kagocel, Госсипол + карбоксиметилцеллюлоза]
 producer:
 source: https://encyclopatia.ru/wiki/%D0%9A%D0%B0%D0%B3%D0%BE%D1%86%D0%B5%D0%BB

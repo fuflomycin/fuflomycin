@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Арника
-photo:
+photo: homeopathy-arnica.png
 other: [Arnica]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_11948.htm

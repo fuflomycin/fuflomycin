@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Лаеннек
-photo:
+photo: rsp-laennec.png
 other: [Laennec]
 producer:
 source: https://encyclopatia.ru/wiki/%D0%9B%D0%B0%D0%B5%D0%BD%D0%BD%D0%B5%D0%BA

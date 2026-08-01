@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ипека
-photo:
+photo: homeopathy-ipeca.png
 other: [Ipeca]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_98482.htm

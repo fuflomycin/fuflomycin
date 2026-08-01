@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Ликопид
-photo:
+photo: rsp-licopid.png
 other:
   [
     Глюкозаминилмурамилдипептид,

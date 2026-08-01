@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Триазавирин
-photo:
+photo: rsp-triazavirine.png
 other:
   [
     Triazavirine,

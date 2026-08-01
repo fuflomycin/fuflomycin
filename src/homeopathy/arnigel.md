@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Арнигель
-photo:
+photo: homeopathy-arnigel.png
 other: []
 producer:
 source: https://www.rlsnet.ru/tn_index_id_46913.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Калькохель
-photo:
+photo: homeopathy-calcoheel.png
 other: [Calcoheel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_9860.htm

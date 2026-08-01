@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Псорилом
-photo: 
+photo: homeopathy-psorilom.png
 other: [Psorilom]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_21580.htm

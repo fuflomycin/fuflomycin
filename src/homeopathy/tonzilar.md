@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тонзилар
-photo: 
+photo: homeopathy-tonzilar.png
 other: [Tonzilar]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_16172.htm

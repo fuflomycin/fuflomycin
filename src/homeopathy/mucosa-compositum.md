@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Мукоза композитум
-photo: 
+photo: homeopathy-mucosa-compositum.png
 other: [Mucosa compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_2177.htm

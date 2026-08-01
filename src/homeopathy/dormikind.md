@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Дормикинд
-photo:
+photo: homeopathy-dormikind.png
 other: [Dormikind]
 producer: Deutsche Homoopathie-Union DHU-Arzneimittel GmbH & Co. KG., Германия
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/9943_12_17

@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Имудон
-photo:
+photo: rsp-imudon.png
 other:
   [Бронхо-мунал, Broncho-Vaxom, Bacterial extract OM-85, OM-85, ИРС 19, IRS 19, Исмижен, Исмиген]
 producer:

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Тестис композитум
-photo: 
+photo: homeopathy-testis-compositum.png
 other: [Testis compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_9868.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Акогриппин
-photo:
+photo: homeopathy-acogryppin.jpg
 other: [Acogryppin]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_16143.htm

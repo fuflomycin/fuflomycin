@@ -2,7 +2,7 @@
 section: РСП / Фуфломицин
 title: Хофитол
 mnn:
-photo:
+photo: rsp-hofitol.png
 gallery:
 other: []
 producer:

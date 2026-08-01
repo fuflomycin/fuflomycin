@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гомеострес
-photo:
+photo: homeopathy-gomeostres.png
 other: []
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_42490.htm

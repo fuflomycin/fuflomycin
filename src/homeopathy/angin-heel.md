@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ангин-Хель СД
-photo:
+photo: homeopathy-angin-heel.png
 other: [Angin-Heel SD]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_21680.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Бронхостат
-photo:
+photo: homeopathy-bronchostatum.png
 other: [Bronchostatum]
 producer: Мега Фарм
 source: https://www.rlsnet.ru/tn_index_id_16151.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Дуоденохель
-photo:
+photo: homeopathy-duodenoheel.jpg
 other: [Duodenoheel]
 producer: ООО «Арнебия»
 source: https://www.rlsnet.ru/tn_index_id_7205.htm

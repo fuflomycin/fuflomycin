@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Убихинон композитум
-photo: 
+photo: homeopathy-ubichinon-compositum.png
 other: [Ubichinon compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_7968.htm

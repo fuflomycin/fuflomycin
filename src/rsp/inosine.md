@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Инозин
-photo:
+photo: rsp-inosine.png
 other:
   [
     Изопринозин,

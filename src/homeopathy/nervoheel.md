@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Нервохель
-photo:
+photo: homeopathy-nervoheel.png
 other: [Nervoheel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_6682.htm

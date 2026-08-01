@@ -1,7 +1,7 @@
 ---
 section: Негативный перечень ФК
 title: Алоэ экстракт
-photo:
+photo: fk-aloe-extrakt.png
 other: []
 producer:
 source: http://www.rspor.ru/mods/db1/1/Negativ_perechen.pdf

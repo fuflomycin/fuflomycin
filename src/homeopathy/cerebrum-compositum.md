@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Церебрум композитум
-photo: 
+photo: homeopathy-cerebrum-compositum.png
 other: [Cerebrum compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_15953.htm

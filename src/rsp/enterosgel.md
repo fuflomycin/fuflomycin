@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Энтеросгель
-photo:
+photo: rsp-enterosgel.png
 other:
   [
     Enterosgel,

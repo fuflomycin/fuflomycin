@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Калиум муриатикум
-photo:
+photo: homeopathy-kalium-muriaticum.png
 other: [Kalium muriaticum]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_98504.htm

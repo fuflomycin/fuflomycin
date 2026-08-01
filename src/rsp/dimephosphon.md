@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Димефосфон
-photo:
+photo: rsp-dimephosphon.png
 other:
   [
     Dimephosphon,

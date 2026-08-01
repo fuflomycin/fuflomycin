@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Бронхалис-Хель
-photo:
+photo: homeopathy-bronchalis-heel.png
 other: [Bronchalis-Heel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7202.htm

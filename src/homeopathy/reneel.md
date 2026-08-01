@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Ренель
-photo: 
+photo: homeopathy-reneel.png
 other: [Reneel]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7215.htm

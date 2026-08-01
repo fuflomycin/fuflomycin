@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: КОРИЗАЛИЯ
-photo:
+photo: homeopathy-korizaliya.png
 other: []
 producer: Boiron, Франция
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/5469_02_07_12_17

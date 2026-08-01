@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Пирогениум
-photo: 
+photo: homeopathy-pyrogenium.png
 other: [Pyrogenium]
 producer: Лаборатория Буарон
 source: https://www.rlsnet.ru/tn_index_id_98619.htm

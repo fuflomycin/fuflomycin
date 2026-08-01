@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Галстена
-photo:
+photo: homeopathy-galstena.png
 other: [Galstena]
 producer: Richard Bittner AG, Австрия
 source: https://www.rlsnet.ru/tn_index_id_6757.htm

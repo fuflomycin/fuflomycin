@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Ингавирин
-photo:
+photo: rsp-ingavirin.png
 other:
   [
     Ingavirin,

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Мастопол
-photo: 
+photo: homeopathy-mastopol.png
 other: [Mastopol]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_35597.htm

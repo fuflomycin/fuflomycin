@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Плацента композитум
-photo: 
+photo: homeopathy-placenta-compositum.png
 other: [Placenta compositum]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_9865.htm

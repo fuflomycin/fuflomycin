@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Энгистол
-photo: 
+photo: homeopathy-engystol.png
 other: [Engystol]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_7221.htm

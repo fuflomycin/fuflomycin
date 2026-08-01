@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Колхикум
-photo:
+photo: homeopathy-colchicum.png
 other: [Colchicum]
 producer:
 source: https://www.rlsnet.ru/tn_index_id_29321.htm

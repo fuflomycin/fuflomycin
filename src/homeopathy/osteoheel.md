@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Остеохель С
-photo:
+photo: homeopathy-osteoheel.png
 other: [Osteoheel S]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://www.rlsnet.ru/tn_index_id_9864.htm

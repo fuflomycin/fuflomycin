@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Панавир
-photo:
+photo: rsp-panavir.png
 other: [Panavir]
 producer:
 source: https://encyclopatia.ru/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%B2%D0%B8%D1%80

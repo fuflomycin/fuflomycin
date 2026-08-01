@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Кутис композитум
-photo: 
+photo: homeopathy-cutis-compositum.png
 other: [Cutis compositum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_9861.htm

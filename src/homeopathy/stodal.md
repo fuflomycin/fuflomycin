@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Стодаль
-photo:
+photo: homeopathy-stodal.png
 other: []
 producer: Boiron, Франция
 source: https://encyclopatia.ru/wiki/%D0%A1%D1%82%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C

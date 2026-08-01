@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Валерианахель
-photo: 
+photo: homeopathy-valerianaheel.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

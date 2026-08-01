@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Климактоплан
-photo:
+photo: homeopathy-klimaktoplan.png
 other: [Klimaktoplan]
 producer: DHU
 source: https://www.rceth.by/Refbank/reestr_lekarstvennih_sredstv/details/8523_08_15_18

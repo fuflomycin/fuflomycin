@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Цитиколин
-photo:
+photo: rsp-citicoline.png
 other:
   [
     Цераксон,

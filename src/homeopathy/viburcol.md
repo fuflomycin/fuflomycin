@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Вибуркол
-photo:
+photo: homeopathy-viburcol.png
 other: [Viburcol]
 producer: Биологише Хайльмиттель Хеель ГмбХ
 source: https://encyclopatia.ru/wiki/%D0%92%D0%B8%D0%B1%D1%83%D1%80%D0%BA%D0%BE%D0%BB

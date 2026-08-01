@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Цефамадар
-photo: 
+photo: homeopathy-cefamadar.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

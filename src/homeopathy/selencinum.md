@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Селенцин
-photo: 
+photo: homeopathy-selencinum.jpg
 other: [Selencinum]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_16168.htm

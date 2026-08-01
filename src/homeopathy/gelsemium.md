@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Гельземиум
-photo:
+photo: homeopathy-gelsemium.png
 other: [ГЕЛЬЗЕМИН, Gelsemium]
 producer: Лаборатория Буарон
 source: https://www.rlsnet.ru/tn_index_id_29175.htm

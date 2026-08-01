@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Мексидол
-photo:
+photo: rsp-mexidol.png
 other:
   [
     Астрокс,

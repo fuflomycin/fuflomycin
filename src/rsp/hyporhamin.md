@@ -1,7 +1,7 @@
 ---
 section: РСП / Фуфломицин
 title: Гипорамин
-photo:
+photo: rsp-hyporhamin.png
 other:
   [Эребра, сухой экстракт листьев облепихи, hyppophae rhamnoides, Hiporhamin]
 producer:

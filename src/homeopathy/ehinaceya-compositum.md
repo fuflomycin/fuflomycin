@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Эхинацея композитум СН
-photo: 
+photo: homeopathy-ehinaceya-compositum.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

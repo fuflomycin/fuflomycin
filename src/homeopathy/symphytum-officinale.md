@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Симфитум оффицинале
-photo: 
+photo: homeopathy-symphytum-officinale.png
 other: [Symphytum officinale]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_30953.htm

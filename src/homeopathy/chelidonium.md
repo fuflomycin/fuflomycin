@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Хелидониум
-photo: 
+photo: homeopathy-chelidonium.png
 other: [Chelidonium]
 producer: 
 source: https://www.rlsnet.ru/tn_index_id_28923.htm

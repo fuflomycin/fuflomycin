@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Страмониум
-photo: 
+photo: homeopathy-stramonium.png
 other: [Stramonium]
 producer: ООО «Буарон»
 source: https://www.rlsnet.ru/tn_index_id_29444.htm

@@ -1,7 +1,7 @@
 ---
 section: Гомеопатия
 title: Коэнзим композитум
-photo: 
+photo: homeopathy-koenzim-compositum.png
 other: []
 producer: 
 source: https://www.rlsnet.ru/pharm-groups/gomeopaticeskie-sredstva-17

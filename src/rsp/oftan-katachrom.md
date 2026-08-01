@@ -2,7 +2,7 @@
 section: РСП / Фуфломицин
 title: Офтан Катахром
 mnn:
-photo:
+photo: rsp-oftan-katachrom.jpg
 gallery:
 other: [Oftan Katahrom]
 producer:
